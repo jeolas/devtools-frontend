@@ -67,3 +67,4 @@ test/perf/.generated
 
 # cipd rollup binaries synced from third_party/
 node_modules/@rollup/rollup*/
+node_modules
